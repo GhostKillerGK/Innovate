@@ -1,0 +1,277 @@
+{
+  "Incident 1": {
+    "Lat": 32.338034,
+    "Long": -86.482702,
+    "Type": "Blown Fuse"
+  },
+  "Incident 10": {
+    "Lat": 32.445232,
+    "Long": -86.269891,
+    "Type": "Pole"
+  },
+  "Incident 11": {
+    "Lat": 32.313422,
+    "Long": -86.235891,
+    "Type": " Transformer"
+  },
+  "Incident 12": {
+    "Lat": 32.331139,
+    "Long": -86.578914,
+    "Type": "Transformer"
+  },
+  "Incident 13": {
+    "Lat": 32.290328,
+    "Long": -86.349655,
+    "Type": "Line"
+  },
+  "Incident 14": {
+    "Lat": 32.29852,
+    "Long": -86.375671,
+    "Type": "Line"
+  },
+  "Incident 15": {
+    "Lat": 32.417583,
+    "Long": -86.275921,
+    "Type": "Transformer"
+  },
+  "Incident 16": {
+    "Lat": 32.351572,
+    "Long": -86.075664,
+    "Type": "Tree and Line"
+  },
+  "Incident 17": {
+    "Lat": 32.382122,
+    "Long": -86.267458,
+    "Type": "Line"
+  },
+  "Incident 18": {
+    "Lat": 32.48215,
+    "Long": -86.464313,
+    "Type": "Transformer"
+  },
+  "Incident 19": {
+    "Lat": 32.33244,
+    "Long": -86.283203,
+    "Type": " Transformer"
+  },
+  "Incident 2": {
+    "Lat": 32.25316,
+    "Long": -86.384946,
+    "Type": "Transformer"
+  },
+  "Incident 20": {
+    "Lat": 32.352111,
+    "Long": -86.263604,
+    "Type": "Tree and Line"
+  },
+  "Incident 21": {
+    "Lat": 32.450928,
+    "Long": -86.126766,
+    "Type": "Not Evaluated"
+  },
+  "Incident 22": {
+    "Lat": 32.504285,
+    "Long": -86.328384,
+    "Type": "Pole"
+  },
+  "Incident 23": {
+    "Lat": 32.363278,
+    "Long": -86.115399,
+    "Type": "Transformer"
+  },
+  "Incident 24": {
+    "Lat": 32.385502,
+    "Long": -86.31182,
+    "Type": "Blown Fuse"
+  },
+  "Incident 25": {
+    "Lat": 32.362896,
+    "Long": -86.2955,
+    "Type": "Pole"
+  },
+  "Incident 26": {
+    "Lat": 32.488988,
+    "Long": -86.193382,
+    "Type": "Line"
+  },
+  "Incident 27": {
+    "Lat": 32.343529,
+    "Long": -86.35559,
+    "Type": "Tree and Line"
+  },
+  "Incident 28": {
+    "Lat": 32.372996,
+    "Long": -86.055007,
+    "Type": "Blown Fuse"
+  },
+  "Incident 29": {
+    "Lat": 32.43521,
+    "Long": -86.489421,
+    "Type": "Transformer"
+  },
+  "Incident 3": {
+    "Lat": 32.354156,
+    "Long": -86.376471,
+    "Type": "Transformer"
+  },
+  "Incident 30": {
+    "Lat": 32.286655,
+    "Long": -86.450619,
+    "Type": "Transformer"
+  },
+  "Incident 31": {
+    "Lat": 32.296545,
+    "Long": -86.272761,
+    "Type": "Transformer"
+  },
+  "Incident 32": {
+    "Lat": 32.274728,
+    "Long": -86.148836,
+    "Type": "Line"
+  },
+  "Incident 33": {
+    "Lat": 32.371677,
+    "Long": -86.101967,
+    "Type": "Blown Fuse"
+  },
+  "Incident 34": {
+    "Lat": 32.40567,
+    "Long": -86.165842,
+    "Type": "Transformer"
+  },
+  "Incident 35": {
+    "Lat": 32.542486,
+    "Long": -86.20583,
+    "Type": "Tree and Line"
+  },
+  "Incident 36": {
+    "Lat": 32.369372,
+    "Long": -86.288034,
+    "Type": "Tree and Line"
+  },
+  "Incident 37": {
+    "Lat": 32.54606,
+    "Long": -86.293074,
+    "Type": "Line"
+  },
+  "Incident 38": {
+    "Lat": 32.450554,
+    "Long": -86.156281,
+    "Type": "Pole"
+  },
+  "Incident 39": {
+    "Lat": 32.381365,
+    "Long": -86.328133,
+    "Type": "Blown Fuse"
+  },
+  "Incident 4": {
+    "Lat": 32.394348,
+    "Long": -86.42343,
+    "Type": "Line"
+  },
+  "Incident 40": {
+    "Lat": 32.336961,
+    "Long": -86.253109,
+    "Type": "Blown Fuse"
+  },
+  "Incident 41": {
+    "Lat": 32.305149,
+    "Long": -86.23902,
+    "Type": "Blown Fuse"
+  },
+  "Incident 42": {
+    "Lat": 32.395631,
+    "Long": -86.248406,
+    "Type": "Tree and Line"
+  },
+  "Incident 43": {
+    "Lat": 32.277795,
+    "Long": -86.320408,
+    "Type": "Pole"
+  },
+  "Incident 44": {
+    "Lat": 32.246625,
+    "Long": -86.345358,
+    "Type": "Blown Fuse"
+  },
+  "Incident 45": {
+    "Lat": 32.365166,
+    "Long": -86.353776,
+    "Type": "Blown Fuse"
+  },
+  "Incident 46": {
+    "Lat": 32.386997,
+    "Long": -86.223468,
+    "Type": "Blown Fuse"
+  },
+  "Incident 47": {
+    "Lat": 32.539645,
+    "Long": -86.313324,
+    "Type": "Transformer"
+  },
+  "Incident 48": {
+    "Lat": 32.366954,
+    "Long": -86.260672,
+    "Type": "Transformer"
+  },
+  "Incident 49": {
+    "Lat": 32.386909,
+    "Long": -86.347155,
+    "Type": "Transformer"
+  },
+  "Incident 5": {
+    "Lat": 32.342744,
+    "Long": -86.230484,
+    "Type": "Not Evaluated"
+  },
+  "Incident 50": {
+    "Lat": 32.323881,
+    "Long": -86.446939,
+    "Type": "Tree and Line"
+  },
+  "Incident 51": {
+    "Lat": 32.410969,
+    "Long": -86.299489,
+    "Type": "Blown Fuse"
+  },
+  "Incident 52": {
+    "Lat": 32.453697,
+    "Long": -86.42696,
+    "Type": "Transformer"
+  },
+  "Incident 53": {
+    "Lat": 32.454728,
+    "Long": -86.208996,
+    "Type": "Tree and Line"
+  },
+  "Incident 54": {
+    "Lat": 32.362688,
+    "Long": -86.141235,
+    "Type": "Tree and Line"
+  },
+  "Incident 55": {
+    "Lat": 32.302533,
+    "Long": -86.33872,
+    "Type": "Tree and Line"
+  },
+  "Incident 6": {
+    "Lat": 32.454996,
+    "Long": -86.466409,
+    "Type": "Blown Fuse"
+  },
+  "Incident 7": {
+    "Lat": 32.322888,
+    "Long": -86.282264,
+    "Type": "Transformer"
+  },
+  "Incident 8": {
+    "Lat": 32.348334,
+    "Long": " -86.285884",
+    "Type": " Line"
+  },
+  "Incident 9": {
+    "Lat": 32.445294,
+    "Long": " -86.394411",
+    "Type": " Transformer"
+  }
+}
